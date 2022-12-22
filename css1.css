@@ -1,0 +1,50 @@
+table, th, td {
+    border: 3px solid chocolate;
+    border-collapse: collapse;
+    //width: 50%;
+  }
+
+  .name{
+    color: black;
+    text-align: center;
+}
+.ami{
+    display: block;
+    margin: auto;
+}
+
+
+  h1{
+    color: darkred;
+    font-family: italic;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3{
+    color: red;
+    //text-align: center;
+}
+
+.double {
+    border-style: double;
+    background-color: chartreuse;
+    //width: 50%;
+}
+
+.solid{
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: aqua;
+    //width: 50%;
+}
+
+.nam{
+    color: gray;
+}
+
+.all{
+    resize: vertical;
+    resize: horizontal;
+    overflow: auto;
+}
